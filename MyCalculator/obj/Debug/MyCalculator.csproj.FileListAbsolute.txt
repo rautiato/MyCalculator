@@ -1,0 +1,9 @@
+D:\Study\CSharp\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe.config
+D:\Study\CSharp\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe
+D:\Study\CSharp\MyCalculator\MyCalculator\bin\Debug\MyCalculator.pdb
+D:\Study\CSharp\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csprojAssemblyReference.cache
+D:\Study\CSharp\MyCalculator\MyCalculator\obj\Debug\MyCalculator.Calculator.resources
+D:\Study\CSharp\MyCalculator\MyCalculator\obj\Debug\MyCalculator.Properties.Resources.resources
+D:\Study\CSharp\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.GenerateResource.cache
+D:\Study\CSharp\MyCalculator\MyCalculator\obj\Debug\MyCalculator.exe
+D:\Study\CSharp\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb
