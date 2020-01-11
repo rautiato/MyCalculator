@@ -355,7 +355,6 @@
             this.MaximizeBox = false;
             this.Name = "Calculator";
             this.Text = "Calculator";
-            this.Load += new System.EventHandler(this.Calculator_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

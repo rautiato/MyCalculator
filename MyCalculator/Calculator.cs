@@ -323,10 +323,5 @@ namespace MyCalculator
                 }
             }
         }
-
-        private void Calculator_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }
